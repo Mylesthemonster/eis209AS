@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <h3 align="center">209A.S</h3>
   <p align="center">
@@ -25,7 +24,3 @@ rec_test.py
 ## Thanks
 
 Thank you for viewing my class repo. :blush:
-=======
-# eis209as
-Engineering Interactive Systems 209AS
->>>>>>> 5ebcce8cc75a8c7ae6d8c6cdd2ee4288402a7e11
