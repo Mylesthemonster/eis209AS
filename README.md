@@ -15,7 +15,21 @@
 ## What's included
 
 ```text
-rec_test.py
+
+eis209as/
+└─-mic_test.py
+└─-rec_test.py
+└─-vibration_bakeoff_proj/
+|   └── src/
+|   |   ├── ClassifyVibration.java
+|   |   ├── DataInstance.java
+|   |   ├── FeatureCalc.java
+|   |   └── MLClassifier.java
+|   └── data/
+|   |   └── test_data.arff
+|   └── lib/
+|   └── saved_models/
+|   └── bin/
 ```
 ## Creator
 
