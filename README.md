@@ -15,7 +15,6 @@
 ## What's included
 
 ```text
-
 eis209as/
 └─-mic_test.py
 └─-rec_test.py
