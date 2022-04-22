@@ -82,13 +82,13 @@ public class MLClassifier {
         if(classifier == null || classattr == null) {
             return "Unknown";
         }
-    	System.out.println("data " + data);
+    	// System.out.println("data " + data);
         Instance instance = featureCalc.calcFeatures(data);
         
         try {
 			TimeUnit.MILLISECONDS.sleep(100);
             int result = (int) classifier.classifyInstance(instance);
-            System.out.println("Result: " + (result));
+            // System.out.println("Result: " + (result));
             return classattr.value((int)result);
             
         } catch(Exception e) {
